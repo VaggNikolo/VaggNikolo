@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **about Federated Machine Learning**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/vangelis-nikolopoulos/](https://www.linkedin.com/in/vangelis-nikolopoulos/)
-
 - ⚡ Fun fact *Your definition of "big" data might actually ***mean*** just ***average*** (pun intended)*
 
 <h3 align="left">Connect with me:</h3>
