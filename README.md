@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vangelis</h1>
 <h3 align="center">an ECE undergrad student at the Technical University of Crete. I like to tangle with Data Science stuff.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vaggnikolo&label=Page%20hits&color=f97b1e&style=plastic" alt="vaggnikolo" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=VaggNikolo&label=Page%20hits&color=f97b1e&style=plastic" alt="vaggnikolo" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=VaggNikolo" alt="vaggnikolo" /></a> </p>
 
