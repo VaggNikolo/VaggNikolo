@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=VaggNikolo&label=Page%20hits&color=f97b1e&style=plastic" alt="vaggnikolo" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=VaggNikolo" alt="vaggnikolo" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=VaggNikolo&theme=juicyfresh" alt="vaggnikolo" /></a> </p>
 
 - 🌱 I’m currently learning **about Federated Machine Learning**
 
