@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vangelis nikolopoulos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vangelis nikolopoulos" height="30" width="40" /></a>
-<a href="https://www.codingame.com/profile/c1ccb51474562db0cf59c2ee010d84a69543295" target="blank"><img align="center" src="https://media.licdn.com/dms/image/v2/C560BAQGOd-eWEWqChA/company-logo_200_200/company-logo_200_200/0/1630597986114/codingame_logo?e=2147483647&v=beta&t=7Mr_PhPqpwioEze16CYhZNVfe0QN_8Ncc1kdO4ZVSeo" height="200" width="200" /></a>
+<a href="https://www.codingame.com/profile/c1ccb51474562db0cf59c2ee010d84a69543295" target="blank"><img align="center" src="https://media.licdn.com/dms/image/v2/C560BAQGOd-eWEWqChA/company-logo_200_200/company-logo_200_200/0/1630597986114/codingame_logo?e=2147483647&v=beta&t=7Mr_PhPqpwioEze16CYhZNVfe0QN_8Ncc1kdO4ZVSeo" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
