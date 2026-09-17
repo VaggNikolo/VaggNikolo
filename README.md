@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vangelis</h1>
-<h3 align="center">an ECE undergrad student at the Technical University of Crete. I like to tangle with Data Science stuff.</h3>
+<h3 align="center">a Big Data Engineer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=VaggNikolo&label=Page%20hits&color=f97b1e&style=plastic" alt="vaggnikolo" /> </p>
 
